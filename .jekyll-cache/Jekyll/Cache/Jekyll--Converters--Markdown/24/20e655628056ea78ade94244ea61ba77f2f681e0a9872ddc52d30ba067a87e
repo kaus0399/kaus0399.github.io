@@ -1,0 +1,106 @@
+I"ž
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/blog.jpg" alt="UC Davis Graduation Image" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">About Me</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>I do research in Bioinformatics and Computer Vision</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#summary" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/research.jpg" alt="Example network map for lipids" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Publications</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>In the past Iâ€™ve done research in algorithm development, computational biology, object detection and lab automation.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/publications" class="btn btn--primary">View Publications</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/blog.jpg" alt="Photo by Dariusz Sankowski on Unsplash" />
+            
+              <span class="archive__item-caption">Photo by <a href="https://unsplash.com/@sadswim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ian Dooley</a> on <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+</span>
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Blog</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Dive into some of my thoughts and adventures!</p>
+
+            </div>
+          
+
+          
+            <p><a href="/blog" class="btn btn--primary">View Blog</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h2 id="summary">Summary</h2>
+<ul>
+  <li><strong>Degree</strong>: Graduating from UC Davis in June 2021 with a B.S. in Biomedical Engineering and a Computer Science Minor</li>
+  <li><strong>Hobbies</strong>: Soccer, Guitar, Cooking, Travel</li>
+</ul>
+
+<p>The PDF of my full resume is linked below:<br />
+<a href="/assets/Kaustubh_Deshpande_Resume_150720.pdf">Resume</a></p>
+
+<h2 id="what-am-i-doing-now">What am I doing now?</h2>
+<p>Checkout my <a href="/now">now page</a>.</p>
+:ET
