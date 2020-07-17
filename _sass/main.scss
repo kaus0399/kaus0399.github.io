@@ -15,7 +15,7 @@ img[src~="lim_height"]{
 //   }
 
 h2 {
-    color: maroon;
+    color: darkolivegreen;
 }
 
 p {
@@ -27,9 +27,9 @@ p {
 }
 
 a {
-  color:maroon;
+  color:darkolivegreen;
   &:visited {
-    color: maroon;
+    color: darkolivegreen;
   }
 }
 
@@ -38,7 +38,7 @@ li {
 }
 
 h3 {
-  color: maroon;
+  color: darkolivegreen;
 }
 
 // .archive__item a {
@@ -47,7 +47,7 @@ h3 {
 // }
 
 .btn--primary:visited {
-  background-color: maroon;
+  background-color: darkolivegreen;
   color: #fff;
 }
 
@@ -72,9 +72,9 @@ img {
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color:darkred ;
+  color:darkolivegreen ;
   text-decoration: underline;
-  text-shadow: 0.25px 0.25px maroon;
+  text-shadow: 0.25px 0.25px darkolivegreen;
 }
 
 body {
