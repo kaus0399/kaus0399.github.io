@@ -22,7 +22,7 @@ title: Kaustubh Deshpande
 email: kaus0399@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kaustubh Deshpande's Personal Website and Portfolio
-baseurl: "kaus0399.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "kaus0399.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  kaus0399
