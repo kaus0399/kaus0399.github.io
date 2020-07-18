@@ -8,7 +8,7 @@ permalink: /now/
 I am currently working on building this webiste as an online portfolio for myself
 ### Work:
 __Plant AI and Biophysics Lab__  
-I currently work part time as a Software Developer and Researcher for the PAIBPL under the guidance of professor [Mason Earles](https://bae.ucdavis.edu/people/mason-earles). Currently working on training and deploying a pytorch based instance segemtnation mode which makes use of synthetic data to form predictions on vineayrd renderings.
+I currently work part time as a Software Developer and Researcher for the PAIBPL under the guidance of Professor [Mason Earles](https://bae.ucdavis.edu/people/mason-earles). Currently working on training and deploying a pytorch based instance segemtnation mode which makes use of synthetic data to form predictions on vineayrd renderings.
 
 __Computational RNA Genomics Lab__  
 I currently work part time as a Computational Biology researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran). Currently finishing a research paper on the use of binary classifiers for modifying neuclotide scoring. 

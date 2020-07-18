@@ -3,7 +3,7 @@
   }
 
 .archive__item-teaser{
-    max-height: 50vh;
+    max-height: 34vh;
   }
   
 img[src~="lim_height"]{
@@ -15,7 +15,7 @@ img[src~="lim_height"]{
 //   }
 
 h2 {
-    color: darkolivegreen;
+    color: brown;
 }
 
 p {
@@ -27,9 +27,9 @@ p {
 }
 
 a {
-  color:darkolivegreen;
+  color:brown;
   &:visited {
-    color: darkolivegreen;
+    color: brown;
   }
 }
 
@@ -38,7 +38,7 @@ li {
 }
 
 h3 {
-  color: darkolivegreen;
+  color: brown;
 }
 
 // .archive__item a {
@@ -47,7 +47,7 @@ h3 {
 // }
 
 .btn--primary:visited {
-  background-color: darkolivegreen;
+  background-color: brown;
   color: #fff;
 }
 
@@ -62,6 +62,7 @@ h3 {
 
 img {
   min-width: 100%;
+  max-width: 100%;
   width: auto\9;
   height: auto;
   vertical-align: middle;
@@ -72,9 +73,8 @@ img {
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color:darkolivegreen ;
+  color:brown ;
   text-decoration: underline;
-  text-shadow: 0.25px 0.25px darkolivegreen;
 }
 
 body {

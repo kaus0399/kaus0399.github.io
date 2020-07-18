@@ -9,17 +9,17 @@ author_profile: true
 header:
   overlay_image: /assets/images/home.jpeg
 feature_row:
-  - image_path: assets/images/web.jpg
+  - image_path: assets/images/web3.jpg
     alt: "UC Davis Graduation Image"
     title: "About Me"
     url: "/#summary"
-    excerpt: "I do research in Bioinformatics and Computer Vision"
+    excerpt: "I love travel, muscic and sports"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/resized.jpg
     alt: "Example network map for lipids"
     title: "Publications"
-    excerpt: "In the past I've done research in algorithm development, computational biology, object detection and lab automation."
+    excerpt: "I've conducted research in algorithm development, object detection and lab automation."
     url: "/publications"
     btn_label: "View Publications"
     btn_class: "btn--primary"
