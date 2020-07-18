@@ -13,7 +13,7 @@ feature_row:
     alt: "UC Davis Graduation Image"
     title: "About Me"
     url: "/#summary"
-    excerpt: "I love travel, muscic and sports"
+    excerpt: "I love travel, music and sports"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/resized.jpg
