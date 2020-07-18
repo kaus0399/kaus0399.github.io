@@ -9,7 +9,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/home.jpeg
 feature_row:
-  - image_path: assets/images/web3.jpg
+  - image_path: assets/images/web3.JPG
     alt: "UC Davis Graduation Image"
     title: "About Me"
     url: "/#summary"
