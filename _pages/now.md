@@ -5,7 +5,7 @@ permalink: /now/
 ---
 ## Latest Update :- 15th of July, 2020.
 ### Personal Website:
-I am currently working on building this webiste as an online portfolio for myself
+I am currently working on developing and finetuning this webiste as an online portfolio for myself. I wanted the domain name kaustubhdeshpande.com, but turns out its taken already. What are the odds!
 ### Work:
 __Plant AI and Biophysics Lab__  
 I currently work part time as a Software Developer and Researcher for the PAIBPL under the guidance of Professor [Mason Earles](https://bae.ucdavis.edu/people/mason-earles). Currently working on training and deploying a pytorch based instance segemtnation mode which makes use of synthetic data to form predictions on vineayrd renderings.

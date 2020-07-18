@@ -74,9 +74,22 @@ img {
   display: block;
   margin: 0 1rem;
   color:brown ;
-  text-decoration: underline;
 }
 
 body {
   color: black;
+}
+
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+  color: rgb(192, 67, 67);
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  text-emphasis-color: green;
+  text-emphasis-style: "*" ;
+}
+
+.page__footer-copyright {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-size: 0.6875em;
+  color: darkorange;
 }
