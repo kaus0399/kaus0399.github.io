@@ -80,22 +80,8 @@ body {
 }
 
 
-.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
-  color:white;
-  text-shadow: 8px 8px 32px rgba(0, 0, 0, 0.5);
-}
-
 .page__footer-copyright {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.6875em;
   color: rgb(10, 163, 148);
-}
-
-.btn--primary {
-  background-color: grey;
-  color: #fff;
-  }
-
-h2.green {
-    color:green;
 }
