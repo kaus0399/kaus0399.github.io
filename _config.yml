@@ -33,6 +33,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 include: ["_pages"]
 defaults:
   # _posts

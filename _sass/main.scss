@@ -4,6 +4,7 @@
 
 .archive__item-teaser{
     max-height: 34vh;
+    display: flex;
   }
   
 img[src~="lim_height"]{
@@ -55,18 +56,16 @@ h3 {
 
 img {
   max-width: 100%;
-  width: auto\9;
-  height: auto;
   vertical-align: middle;
   border: 0;
-  -ms-interpolation-mode: bicubic;
-}
+  }
 
 .greedy-nav a {
   display: block;
-  margin: 0 1rem;
+  position: relative;
+  margin: 0 0.85rem;
   color:rgb(5, 58, 170);
-  font-weight: 500;
+  font-weight: 400;
 }
 
 body {
@@ -87,9 +86,7 @@ body {
 
 .greedy-nav a:hover {
   display: block;
-  margin: 0 1rem;
   color: black;
-  font-weight: 500;
 }
 
 .btn--primary:hover {

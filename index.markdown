@@ -4,14 +4,14 @@
 
 layout: splash
 author: Kaustubh Deshpande
-title: Biomedical Engineering & Computer Science 
+title: Biomedical Engineering<br>& Computer Science 
 author_profile: true
 header:
   overlay_image: /assets/images/hyperconverged-header.png
   overlay_filter: 0.15
 feature_row:
   - image_path: assets/images/web3.JPG
-    alt: "UC Davis Graduation Image"
+    alt: "Rose Garded"
     title: "About Me"
     url: "/#summary"
     excerpt: "I love travel, music and sports"
@@ -45,4 +45,4 @@ The PDF of my full resume is linked below:
 [Resume](/assets/Kaustubh_Deshpande_Resume_150720.pdf)
 
 ## What am I doing now?
-Checkout my [now page](/now).
+Checkout my [now page](/now)
