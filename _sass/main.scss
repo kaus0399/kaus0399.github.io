@@ -1,5 +1,6 @@
 .page__hero--overlay {
     padding: 5em 0;
+    ov
   }
 
 .archive__item-teaser{
@@ -15,8 +16,7 @@ img[src~="lim_height"]{
 //   }
 
 h2 {
-    color: brown;
-}
+    color: rgb(23, 23, 194);}
 
 p {
 
@@ -27,9 +27,9 @@ p {
 }
 
 a {
-  color:brown;
+  color:rgb(29, 128, 194);
   &:visited {
-    color: brown;
+    color: rgb(29, 128, 194);
   }
 }
 
@@ -38,7 +38,7 @@ li {
 }
 
 h3 {
-  color: brown;
+  color: black;
 }
 
 // .archive__item a {
@@ -47,7 +47,7 @@ h3 {
 // }
 
 .btn--primary:visited {
-  background-color: brown;
+  background-color: black;
   color: #fff;
 }
 
@@ -61,7 +61,6 @@ h3 {
 }
 
 img {
-  min-width: 100%;
   max-width: 100%;
   width: auto\9;
   height: auto;
@@ -73,7 +72,8 @@ img {
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color:brown ;
+  color:rgb(23, 23, 194);
+  font-weight: 500;
 }
 
 body {
@@ -82,17 +82,21 @@ body {
 
 
 .page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
-  color: rgb(192, 67, 67);
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  color:white;
+  text-shadow: 8px 8px 32px rgba(0, 0, 0, 0.5);
 }
 
 .page__footer-copyright {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.6875em;
-  color: darkorange;
+  color: rgb(10, 163, 148);
 }
 
 .btn--primary {
-  background-color:brown;
+  background-color: grey;
   color: #fff;
   }
+
+h2.green {
+    color:green;
+}

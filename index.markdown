@@ -7,7 +7,8 @@ author: Kaustubh Deshpande
 title: Biomedical Engineering & Computer Science 
 author_profile: true
 header:
-  overlay_image: /assets/images/home.jpeg
+  overlay_image: /assets/images/hyperconverged-header.png
+  overlay_filter: 0.1
 feature_row:
   - image_path: assets/images/web3.JPG
     alt: "UC Davis Graduation Image"
