@@ -9,10 +9,6 @@
 img[src~="lim_height"]{
     max-height: 30vh;
   }
- 
-// .center {
-//     text-align: center;
-//   }
 
 h2 {
     color: rgb(23, 23, 194);}
@@ -40,10 +36,10 @@ h3 {
   color: black;
 }
 
-// .archive__item a {
-//   position: absolute ;
-//   z-index: 2;
-// }
+.btn--primary {
+  background-color: black;
+  color: #fff;
+}
 
 .btn--primary:visited {
   background-color: black;

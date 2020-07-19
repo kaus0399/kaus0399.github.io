@@ -17,4 +17,4 @@ I currently work part time as a Computational Biology researcher under the guida
 __PHD__  
 My goal is to pursue a PHD in a quantitative field of study. I am currently considering Data Science, NLP and/or Computer Vision focused programs for higher education post-undergraduate.
 
-Please feel free to reach out if you have any information or advice.
+Please feel free to reach out if you have any information or advice. My contact information and online profiles can be found on my [contact page](/contact)
