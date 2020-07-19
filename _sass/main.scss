@@ -11,7 +11,7 @@ img[src~="lim_height"]{
   }
 
 h2 {
-    color: rgb(23, 23, 194);}
+    color: rgb(5, 58, 170);}
 
 p {
 
@@ -38,12 +38,10 @@ h3 {
 
 .btn--primary {
   background-color: black;
-  color: #fff;
 }
 
 .btn--primary:visited {
-  background-color: black;
-  color: #fff;
+  background-color:black;
 }
 
 .navLogo{
@@ -67,7 +65,7 @@ img {
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color:rgb(23, 23, 194);
+  color:rgb(5, 58, 170);
   font-weight: 500;
 }
 
@@ -79,5 +77,21 @@ body {
 .page__footer-copyright {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.6875em;
-  color: rgb(10, 163, 148);
+  color: black;
+}
+
+
+.greedy-nav .visible-links a:before {
+  background: black;
+}
+
+.greedy-nav a:hover {
+  display: block;
+  margin: 0 1rem;
+  color: black;
+  font-weight: 500;
+}
+
+.btn--primary:hover {
+  background-color: rgb(5, 58, 170);
 }
