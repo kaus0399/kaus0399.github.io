@@ -4,7 +4,7 @@
 
 layout: splash
 author: Kaustubh Deshpande
-title: Biomedical Engineering<br>& Computer Science 
+title: Biomedical Engineering<br> & Computer Science 
 author_profile: true
 header:
   overlay_image: /assets/images/hyperconverged-header.png

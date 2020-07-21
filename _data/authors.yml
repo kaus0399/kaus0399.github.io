@@ -1,8 +1,8 @@
-Samir Akre:
+Kaustubh Deshpande:
   name        : "Kaustubh Deshpande"
   bio         : "Biomedical Engineering and Computer Science"
-  # avatar      : "/assets/images/CartoonLogoSamir.png"
-  # links:
-  #   - label: "Email"
-  #     icon: "fas fa-fw fa-envelope-square"
-  #     url: "mailto:samir.akre@gmail.com"
+  # avatar      : "/assets/images/K1.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kaus0399@gmail.com"

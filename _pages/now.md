@@ -8,10 +8,10 @@ permalink: /now/
 I am currently working on developing and finetuning this webiste as an online portfolio for myself. I wanted the domain name kaustubhdeshpande.com, but turns out its taken already. What are the odds?!?
 ### Work:
 __Plant AI and Biophysics Lab__  
-I currently work part time as a Software Developer and Researcher for the PAIBPL under the guidance of Professor [Mason Earles](https://bae.ucdavis.edu/people/mason-earles). Currently working on training and deploying a pytorch based instance segemtnation mode which makes use of synthetic data to form predictions on vineayrd renderings.
+I currently work part time as a Software Developer and Researcher for the PAIBPL under the guidance of [Dr. Mason Earles](https://bae.ucdavis.edu/people/mason-earles). Currently working on training and deploying a pytorch based instance segemtnation mode which makes use of synthetic data to form predictions on vineayrd renderings.
 
 __Computational RNA Genomics Lab__  
-I currently work part time as a Computational Biology researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran). Currently finishing a research paper on the use of binary classifiers for modifying neuclotide scoring. 
+I currently volunteer as an Undergraduate Computational Biology Researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran). Currently finishing a research paper on the use of binary classifiers for modifying neuclotide scoring. 
 
 ### Future Plans:  
 __PHD__  
