@@ -6,7 +6,7 @@ number: 1
 excerpt_separator: <!--more-->
 author: Kaustubh Deshpande
 header:
-  teaser: /assets/images/blog_images/Maia_x_Leuco.png
+  teaser: /assets/images/blog_images/neowise_clipped.png
 ---
 
 Comet Neowise was spotted on March 27, 2020. It was discovered by NASA's Near-Earth Object Wide-field Infrared Survey Explorer; that's how the comet was given the name “NEOWISE.” I came to know of the comet much more recently. I was browsing through twitter when I saw my school’s, UC Davis, official twitter handle upload a picture of this comet as seen from Davis. 
