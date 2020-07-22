@@ -41,7 +41,7 @@ feature_row:
 {: id="summary"}
 - **<span style="color:rgb(5, 58, 170)"> Education </span>**: Graduating from UC Davis in June 2021 with a B.S. in Biomedical Engineering and a Computer. Science Minor
 
-- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume_150720.pdf)
+- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume_220720.pdf)
   - **Proficient**: Python (SciKit-Learn, NumPy, SciPy, Pandas, TensorFlow, PyTorch), MATLAB  
   - **Knowledgable**: C++, SQL, JavaScript, R, HTML5, CSS3, Apache Spark (Spark SQL)
   - **Familiar**: NLP (Natural Language Processing)  
