@@ -9,8 +9,6 @@ header:
   teaser: /assets/images/blog_images/neowise_clipped.png
 ---
 
-Comet Neowise was spotted on March 27, 2020. It was discovered by NASA's Near-Earth Object Wide-field Infrared Survey Explorer; that's how the comet was given the name “NEOWISE.” I came to know of the comet much more recently. I was browsing through twitter when I saw my school’s, UC Davis, official twitter handle upload a picture of this comet as seen from Davis. 
-
 Comet Neowise was spotted on March 27, 2020. It was discovered by NASA's Near-Earth Object Wide-field Infrared Survey Explorer; that's how the comet was given the name “NEOWISE.” I came to know of the comet much more recently, on the 15th of July to be precise. I was browsing through twitter when I saw the UC Davis official twitter handle upload a picture of this comet as seen from Davis, and that’s when I got curious.
 
 I spent the next couple of hours reading about this heavenly body. I obtained some interesting information from [NASA]( https://www.nasa.gov/feature/how-to-see-comet-neowise) and [Space.com]( https://www.space.com/comet-neowise-strange-facts.html). Though nicknamed Neowise, the comet’s official name is C/2020 F3. It has been estimated to be about 3 miles in diameter, which to my surprise was quite average for a comet. It travels at a speed of 40 miles per second. Lastly, this comet is quite bright and visible with the naked eye. Once this comet leaves towards the end of July, it won’t be coming back for another 6,800 years.  A quick google search told me that Neowise was only the 3rd comet visible to the naked eye in the last 100 years. Having never seen a comet in real life before and now that I was aware of this last piece of information, I became hellbent on viewing this comet. How could I not? 
