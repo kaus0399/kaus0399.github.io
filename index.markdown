@@ -11,10 +11,11 @@ header:
   overlay_filter: 0.15
 feature_row:
   - image_path: assets/images/web3.JPG
+    # image_caption: "Photo by [Eesha Hazarika](https://www.linkedin.com/in/vanshika-hazarika-82820b1a0/)"
     alt: "Rose Garded"
     title: "About Me"
     url: "/#summary"
-    excerpt: "I love travel, music and sports"
+    excerpt: "Come find out more about my educational background and various hobbies!"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/resized.jpg
@@ -38,11 +39,20 @@ feature_row:
 
 ## Summary
 {: id="summary"}
-- **Degree**: Graduating from UC Davis in June 2021 with a B.S. in Biomedical Engineering and a Computer Science Minor
-- **Hobbies**: Soccer, Guitar, Cooking, Travel
+- **<span style="color:rgb(5, 58, 170)"> Education </span>**: Graduating from UC Davis in June 2021 with a B.S. in Biomedical Engineering and a Computer. Science Minor
 
-The PDF of my full resume is linked below:  
-[Resume](/assets/Kaustubh_Deshpande_Resume_150720.pdf)
+- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume_150720.pdf)
+  - **Proficient**: Python (SciKit-Learn, NumPy, SciPy, Pandas, TensorFlow, PyTorch), MATLAB  
+  - **Knowledgable**: C++, SQL, JavaScript, R, HTML5, CSS3, Apache Spark (Spark SQL)
+  - **Familiar**: NLP (Natural Language Processing)  
+<br />
+
+- **<span style="color:rgb(5, 58, 170)"> Hobbies </span>**: Here is a list of some of my hobbies.  
+  - **Soccer**: I have been supporting Liverpool F.C. since 2010. My dream is to watch a game live at Anfield, located in the metropolitan county of Merseyside.  
+  - **Guitar**: Last summer I started teaching myself to play by referring to youtube videos, online tabs and music books. I owe a lot of my progress to the two youtube channels [LetsPlayGuitar](https://www.youtube.com/user/guitardevofficial) and [GuitarZero2Hero](https://www.youtube.com/channel/UCasFZzbM8JJ6dqSVEgL9VVg)
+  - **Travel**: I love hiking, sightseeing, visiting new places, viewing different cultures, trying different cuisines and seeing as much of the world as possible. I have taken trips to India, Kenya, Puerto Rico, Hawaii, UAE and Mexico. I am aiming to visit a total of twenty countries by the time I am 25 years old. 
+ 
+
 
 ## What am I doing now?
 Checkout my [now page](/now)

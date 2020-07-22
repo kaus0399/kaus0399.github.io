@@ -1,7 +1,7 @@
 Kaustubh Deshpande:
   name        : "Kaustubh Deshpande"
   bio         : "Biomedical Engineering and Computer Science"
-  # avatar      : "/assets/images/K1.png"
+  avatar      : "/assets/images/avatar4.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
