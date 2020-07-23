@@ -47,7 +47,7 @@ feature_row:
   - **Familiar**: NLP (Natural Language Processing)  
 <br />
 
-- **<span style="color:rgb(5, 58, 170)"> Hobbies </span>**: Here is a list of some of my hobbies.  
+- **<span style="color:rgb(5, 58, 170)"> Hobbies </span>**: Here are some of my favorite hobbies.  
   - **Soccer**: I have been supporting Liverpool F.C. since 2010. My dream is to watch a game live at Anfield, located in the metropolitan county of Merseyside.  
   - **Guitar**: Last summer I started teaching myself to play by referring to youtube videos, online tabs and music books. I owe a lot of my progress to the two youtube channels [LetsPlayGuitar](https://www.youtube.com/user/guitardevofficial) and [GuitarZero2Hero](https://www.youtube.com/channel/UCasFZzbM8JJ6dqSVEgL9VVg)
   - **Travel**: I love hiking, sightseeing, visiting new places, viewing different cultures, trying different cuisines and seeing as much of the world as possible. I have taken trips to India, Kenya, Puerto Rico, Hawaii, UAE and Mexico. I am aiming to visit a total of twenty countries by the time I am 25 years old. 
