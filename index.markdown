@@ -41,7 +41,7 @@ feature_row:
 {: id="summary"}
 - **<span style="color:rgb(5, 58, 170)"> Education </span>**: Graduating from UC Davis in June 2021 with a B.S. in Biomedical Engineering and a Computer. Science Minor
 
-- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume_220720.pdf)
+- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume_220720.pdf){:target="_blank"}
   - **Proficient**: Python (SciKit-Learn, NumPy, SciPy, Pandas, TensorFlow, PyTorch), MATLAB  
   - **Knowledgable**: C++, SQL, JavaScript, R, HTML5, CSS3, Apache Spark (Spark SQL)
   - **Familiar**: NLP (Natural Language Processing)  
@@ -49,7 +49,7 @@ feature_row:
 
 - **<span style="color:rgb(5, 58, 170)"> Hobbies </span>**: Here are some of my favorite hobbies.  
   - **Soccer**: I have been supporting Liverpool F.C. since 2010. My dream is to watch a game live at Anfield, located in the metropolitan county of Merseyside.  
-  - **Guitar**: Last summer I started teaching myself to play by referring to youtube videos, online tabs and music books. I owe a lot of my progress to the two youtube channels [LetsPlayGuitar](https://www.youtube.com/user/guitardevofficial) and [GuitarZero2Hero](https://www.youtube.com/channel/UCasFZzbM8JJ6dqSVEgL9VVg)
+  - **Guitar**: Last summer I started teaching myself to play by referring to youtube videos, online tabs and music books. I owe a lot of my progress to the two youtube channels [LetsPlayGuitar](https://www.youtube.com/user/guitardevofficial){:target="_blank"} and [GuitarZero2Hero](https://www.youtube.com/channel/UCasFZzbM8JJ6dqSVEgL9VVg){:target="_blank"}
   - **Travel**: I love hiking, sightseeing, visiting new places, viewing different cultures, trying different cuisines and seeing as much of the world as possible. I have taken trips to India, Kenya, Puerto Rico, Hawaii, UAE and Mexico. I am aiming to visit a total of twenty countries by the time I am 25 years old. 
  
 
