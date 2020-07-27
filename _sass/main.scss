@@ -3,8 +3,10 @@
   }
 
 .archive__item-teaser{
-    max-height: 33.05vh;
-    display: flex;
+    max-height: 32.25vh;
+    max-width: 100%;
+    // object-fit: cover;
+    // display: flex;
   }
   
 img[src~="lim_height"]{
@@ -91,4 +93,26 @@ body {
 
 .btn--primary:hover {
   background-color: rgb(5, 58, 170);
+}
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+// .wrapper {
+//   min-height: 100%;
+//   height: auto !important;
+//   height: 100%;
+//   margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+// }
+.footer, .push {
+  height: 142px; /* .push must be the same height as .footer */
+}
+
+.page__footer-copyright {
+  font-size: 0.75em;
+  color: rgb(5, 141, 231);
+  font-weight: 350;
 }
