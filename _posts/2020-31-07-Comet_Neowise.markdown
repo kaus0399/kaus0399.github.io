@@ -1,6 +1,6 @@
 ---
 title:  "Chasing Comet Neowise!"
-date:   2020-07-21
+date:   2020-07-31
 categories: Natural Experience
 number: 1
 excerpt_separator: <!--more-->
