@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/hyperconverged-header.png
   overlay_filter: 0.15
 feature_row:
-  - image_path: assets/images/web3.JPG
+  - image_path: assets/images/Webp.JPG
     # image_caption: "Photo by [Eesha Hazarika](https://www.linkedin.com/in/vanshika-hazarika-82820b1a0/)"
     alt: "Rose Garded"
     title: "About Me"
