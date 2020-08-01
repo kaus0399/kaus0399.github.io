@@ -21,7 +21,7 @@ __Computational RNA Genomics Lab__
 I volunteer as an Undergraduate Computational Biology Researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran){:target="_blank"} and [Pierce Radecki](https://www.linkedin.com/in/pierce-radecki/){:target="_blank"}. I am currently finishing a research paper on the use of binary classifiers for modifying necleotide scoring. 
 
 ### Future Plans:  
-__PHD__  
-I aim to pursue a PHD in a quantitative field of study. I am currently considering Data Science, NLP and/or Computer Vision focused programs for higher education post-undergraduate.
+__Ph.D.__  
+I aim to pursue a Ph.D. in a quantitative field of study. I am currently considering Data Science, NLP and/or Computer Vision focused programs for higher education post-undergraduate.
 
 Please feel free to reach out if you have any information or advice for me. My contact information and online profiles can be found on my [contact page](/contact)
