@@ -3,7 +3,7 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## Latest Update :- 21st of July, 2020.
+## Latest Update :- 31st of July, 2020.
 ### Personal Website:
 I recently finished developing this website. Truth be told, there are a lot of changes and features that I would like to implement. Nonetheless, I beleive that the website is presentable for now. 
 
