@@ -18,7 +18,7 @@ __Pyxeda.ai__
 I work as a part time software developer for Pyxeda.ai. My work revolves around building machine leanring and deep learning pipelines in GCP and AWS. 
 
 __Computational RNA Genomics Lab__  
-I volunteer as an Undergraduate Computational Biology Researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran){:target="_blank"} and [Pierce Radecki](https://www.linkedin.com/in/pierce-radecki/){:target="_blank"}. I am currently finishing a research paper on the use of binary classifiers for modifying necleotide scoring. 
+I volunteer as an Undergraduate Computational Biology Researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran){:target="_blank"} and [Pierce Radecki](https://www.linkedin.com/in/pierce-radecki/){:target="_blank"}. I am currently working on contributing to a research paper. I am also working on aiding the software development of [patteRNA](https://github.com/AviranLab/patteRNA){:target="_blank"}, an unsupervised pattern recognition algorithm that rapidly mines RNA structure motifs from structure profiling data.
 
 ### Future Plans:  
 __Ph.D.__  
