@@ -12,8 +12,10 @@ I am currently pursuing a B.S. degree in Biomedical Engineering at UC Davis. Tow
 
 ### Work:
 __Plant AI and Biophysics Lab__  
-I work part time as a Software Developer and Researcher for the PAIBPL under the guidance of [Dr. Mason Earles](https://bae.ucdavis.edu/people/mason-earles){:target="_blank"}. I am currently working on training and deploying a pytorch based instance segmentation mode which makes use of synthetic data to form predictions on vineyard renderings.
+I work part time as a Software Developer and Researcher for the PAIBPL under the guidance of [Dr. Mason Earles](https://bae.ucdavis.edu/people/mason-earles){:target="_blank"}. I am currently working on developing a pytorch based Mask-RCNN which trains entirely on synthetic data and generalizes well to the real world.
 
+__Pyxeda.ai__  
+I work as a part time software developer for Pyxeda.ai. My work revolves around building machine leanring and deep learning pipelines in GCP and AWS. 
 
 __Computational RNA Genomics Lab__  
 I volunteer as an Undergraduate Computational Biology Researcher under the guidance of [Dr. Sharon Aviran](https://bme.ucdavis.edu/people/sharon-aviran){:target="_blank"} and [Pierce Radecki](https://www.linkedin.com/in/pierce-radecki/){:target="_blank"}. I am currently finishing a research paper on the use of binary classifiers for modifying necleotide scoring. 
