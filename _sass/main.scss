@@ -3,10 +3,12 @@
   }
 
 .archive__item-teaser{
-    max-height: 32.25vh;
+    max-height: 32.15vh;
+    object-fit: cover;
+    // max-height: 32.25;
     max-width: 100%;
-    // object-fit: cover;
-    // display: flex;
+    // // object-fit: cover;
+    // // display: flex;
   }
   
 img[src~="lim_height"]{
