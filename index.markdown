@@ -7,7 +7,7 @@ author: Kaustubh Deshpande
 title: Biomedical Engineering<br> & Computer Science 
 author_profile: true
 header:
-  overlay_image: /assets/images/giphy2.gif            #hyperconverged-header.png
+  overlay_image: /assets/images/giphy2.gif#hyperconverged-header.png
   overlay_filter: 0.15
 feature_row:
   - image_path: assets/images/Webp.JPG
