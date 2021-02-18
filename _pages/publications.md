@@ -10,3 +10,7 @@ __Microfluidic cap-to-dispense (μCD): a universal microfluidic–robotic interf
 [View Publication](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00622b#!divAbstract){:target="_blank"}
 
 
+__Pierce Radecki, Kaustubh Deshpande, Rahul Uppuluri, Sharon Aviran. Improved Unsupervised Detection of Structural Motifs in SHAPE Data. 2021__  
+(In preparation, check back September 2021)
+
+
