@@ -28,6 +28,7 @@ twitter_username: jekyllrb
 github_username:  kaus0399
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
