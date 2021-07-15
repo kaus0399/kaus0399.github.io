@@ -3,8 +3,31 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## Latest Update :- 17th of February, 2021.
-### Personal Website:
+## As of July 9th 2021
+
+### Graduate School:  
+**<span style="color:rgb(0, 0, 0)"> UCLA Master's of Applied Statistics Program </span>**  
+I am an incoming master's student in the applied statistics program at UCLA. My registered coursework for Fall 2021 covers topics such as applied regression, methods in modern statistics, advanced regression and predictive modeling. 
+
+My prior research experience and interests include computer vision, big data analytics, reinforcement learning as well as deep learning methodologies. On that note, I cam currently looking into various labs at UCLA where I can continue gaining research experience in these same domains. 
+
+### Personal Life:
+**<span style="color:rgb(0, 0, 0)"> Move to Los Angeles... </span>**   
+It has been a challenge to secure housing in LA with a majority of apartment complexes only willing to provide virtual tours and/or photos. That being said, I am happy to have found an apartment which I will call home for the next two years. Now comes the tedious part of making back to back drives between San Jose and LA to move my stuff down there. Looking forward to being on the road!! 🚗
+
+**<span style="color:rgb(0, 0, 0)"> Guitar </span>**  
+After a busy end to my undergraduate career, I'm happy to be practicing the guitar during the added time at my disposal. Over the summer I'm hoping to get comfortable playing tab that involves intricate finger picking patterns as well as the thumb slap technique. 
+
+
+
+
+
+
+
+
+
+
+<!-- ### Personal Website:
 I recently finished updating website to prep for college and job applications. I hope that the information present is sufficient for my audience to sucesfully evaluate me. If not please feel free to reach out to me for more information or any advice in general using my [contact page](/contact).
 
 ### Undegraduate Degree:
@@ -26,4 +49,4 @@ Pierce Radecki, Kaustubh Deshpande, Rahul Uppuluri, Sharon Aviran. Improved Unsu
 __M.S. and PhD__  
 I am currently in the process of applying to masters programs for Data Science, AI/ML and computer science with an intended start date of 2021. 
 
-Please feel free to reach out if you have any information or advice for me. My contact information and online profiles can be found on my [contact page](/contact)
+Please feel free to reach out if you have any information or advice for me. My contact information and online profiles can be found on my [contact page](/contact) -->
