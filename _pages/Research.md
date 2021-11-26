@@ -30,3 +30,9 @@ I have previously worked at 3 research labs. My work primarily involved programi
 
 - **<span style="color:rgb(5, 58, 170)"> Micro-nano Innovations Lab </span>** At the MiNi lab, the aim of our project was to develop a robotic–microfluidic interface for complete pipette-free liquid handling automation. I worked on the computer vision segment of this project and the software I developed was utilized by a DOBOT robotic arm to identify chemicals in a laboratory setting and dispense them as needed. 
 
+
+
+
+
+
+Back to [home page ⮕](/index)

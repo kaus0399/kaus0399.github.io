@@ -30,6 +30,7 @@ Having lived in the bay area for a majority of my life, I was not expecting too 
 
 
 
+Back to [home page ⮕](/index)
 
 
 

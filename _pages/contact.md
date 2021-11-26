@@ -12,3 +12,5 @@ Email is the best way to reach me, feel free to reach out at:
 [LinkedIn](https://www.linkedin.com/in/kaustubh-deshpande-7a7254179/){:target="_blank"}  
 [GitHub](https://github.com/kaus0399){:target="_blank"}
 
+
+Back to [home page ⮕](/index)
