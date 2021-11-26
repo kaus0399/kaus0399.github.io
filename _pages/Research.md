@@ -13,8 +13,11 @@ __Microfluidic cap-to-dispense (μCD): a universal microfluidic–robotic interf
 __Accurate Detection of RNA Stem-Loops in Structurome Data Reveals Widespread Association with Protein Binding Sites__  
 *Pierce Radecki, Rahul Uppuluri, Kaustubh Deshpande, Sharon Aviran
 bioRxiv 2021.04.28.441809; https://doi.org/10.1101/2021.04.28.441809*  
-[View Publication](https://www.biorxiv.org/content/10.1101/2021.04.28.441809v1) 
+[View Publication](https://www.tandfonline.com/doi/full/10.1080/15476286.2021.1971382) 
 
+__Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection__  
+*Contributed to API development that enables a user to generate synthetic images as needed for computer vision research*  
+[View Publication](https://deepai.org/publication/enlisting-3d-crop-models-and-gans-for-more-data-efficient-and-generalizable-fruit-detection)
 
 ## Research Experience
 

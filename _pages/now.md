@@ -3,20 +3,29 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## As of July 9th 2021
+## As of November 19th 2021
 
 ### Graduate School:  
 **<span style="color:rgb(0, 0, 0)"> UCLA Master's of Applied Statistics Program </span>**  
-I am an incoming master's student in the applied statistics program at UCLA. My registered coursework for Fall 2021 covers topics such as applied regression, methods in modern statistics, advanced regression and predictive modeling. 
+I am currently a first year Graduate student at UCLA's statistics department. The [Applied Statistics](https://master.stat.ucla.edu/program/) program offers a nice blend of theoretical statistical methods along with modern day programing tools to put these methods into practice. 
 
-My prior research experience and interests include computer vision, big data analytics, reinforcement learning as well as deep learning methodologies. On that note, I cam currently looking into various labs at UCLA where I can continue gaining research experience in these same domains. 
+I am two weeks away from wrapping up my first quarter at UCLA. My classes have been work heavy but educationally rewarding at the same time. 
+Here are my schedules for Fall 2021 and Winter 2022. 
+
+**Fall 2021**  
+401 - Survey of Methods in Modern Statistics  
+402 - Applied Regression  
+412 - Advanced Regression and Predictive Modeling  
+
+**Winter 2022**  
+403 - Mathematical Statistics  
+404 - Statistical Computing and Programming
+
+
 
 ### Personal Life:
-**<span style="color:rgb(0, 0, 0)"> Move to Los Angeles... </span>**   
-It has been a challenge to secure housing in LA with a majority of apartment complexes only willing to provide virtual tours and/or photos. That being said, I am happy to have found an apartment which I will call home for the next two years. Now comes the tedious part of making back to back drives between San Jose and LA to move my stuff down there. Looking forward to being on the road!! 🚗
-
-**<span style="color:rgb(0, 0, 0)"> Guitar </span>**  
-After a busy end to my undergraduate career, I'm happy to be practicing the guitar during the added time at my disposal. Over the summer I'm hoping to get comfortable playing tab that involves intricate finger picking patterns as well as the thumb slap technique. 
+**<span style="color:rgb(0, 0, 0)"> SoCal Fever.. </span>**   
+Having lived in the bay area for a majority of my life, I was not expecting too big of a change moving down to Los Angeles. That being said, I have had an amazing couple of months here and have definitely made a home for myself in southern California. Excited to further explore this area over the coming months!!
 
 
 
