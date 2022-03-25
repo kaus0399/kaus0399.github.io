@@ -30,7 +30,8 @@ github_username:  kaus0399
 # Build settings
 highlighter: rouge
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
