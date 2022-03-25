@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author: Kaustubh Deshpande
-title: Applied Statistics<br> & Computer Science 
+title: Applied Statistics & Data Science 
 author_profile: true
 header:
   overlay_image: /assets/images/giphy2.gif #hyperconverged-header.png
@@ -45,17 +45,18 @@ feature_row:
 
 
 - **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande.pdf){:target="_blank"}
-  - **Proficient**: Python, R, SQL
-  - **Knowledgable**: C++, Java, MATLAB, HTML5, CSS3
+  - **Languages**: Python, R, Java, MySQL
+  - **Libraries**: Pytorch, Tensorflow, Keras, Caffe, Theano, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+  - **Tools**: PySpark, AWS, Visual Studio Code
   <!-- - **Familiar**: NLP, Computer Vision   -->
 <br />
 <br />
 
 - **<span style="color:rgb(5, 58, 170)"> Hobbies </span>**: Here are some of my favorite hobbies.  
   - **Soccer**: I have been huge soccer fan for as long as I can remember. I support Liverpool F.C. and hope to one day catch a Premiere League game in person.
-  - **Guitar**: I have been teaching myself to play the guitar starting the summer of 2019. I am still very much a novice but can strum a handful of songs as I continue to learn!
-  <!-- In the summer of 2019 I started teaching myself to play by referring to youtube videos, online tabs and music books. I owe a lot of my progress to the two youtube channels [LetsPlayGuitar](https://www.youtube.com/user/guitardevofficial){:target="_blank"} and [GuitarZero2Hero](https://www.youtube.com/channel/UCasFZzbM8JJ6dqSVEgL9VVg){:target="_blank"} -->
-  - **Travel**: I love hiking, sightseeing, visiting new places, experiencing different cultures, trying different cuisines and seeing as much of the world as possible. I have taken trips around the United States, India, Kenya, Puerto Rico, Hawaii, UAE and Mexico.
+  - **Guitar**: I have been teaching myself to play the guitar since the summer of 2019. I am still very much a novice but can strum a handful of songs as I continue to learn!
+  - **Surfing**: Recently started learning to surf. Hoping to spend more time on the surfboard and not falling over in the water. 
+  - **Travel**: I love hiking, sightseeing, visiting new places, experiencing different cultures, trying different cuisines and seeing as much of the world as possible. Currently working my way through all the National Parks in the United States. 
  
 
 

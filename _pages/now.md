@@ -3,31 +3,62 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## As of November 19th 2021
+## As of March 24th 2022
 
 ### Graduate School:  
 **<span style="color:rgb(0, 0, 0)"> UCLA Master's of Applied Statistics Program </span>**  
 I am currently a first year Graduate student at UCLA's statistics department. The [Applied Statistics](https://master.stat.ucla.edu/program/) program offers a nice blend of theoretical statistical methods along with modern day programing tools to put these methods into practice. 
 
-I am two weeks away from wrapping up my first quarter at UCLA. My classes have been work heavy but educationally rewarding at the same time. 
-Here are my schedules for Fall 2021 and Winter 2022. 
+I recently finished winter quarter at UCLA and suffice to say the coursework was very demanding. 
 
-**Fall 2021**  
-401 - Survey of Methods in Modern Statistics  
-402 - Applied Regression  
-412 - Advanced Regression and Predictive Modeling  
+**STATS 403** focused on theoretical statistical concepts such as Random variables and common distributions, Moment generating functions, Properties of estimators (bias, efficiency, consistency), Methods of estimation (maximum likelihood, method of moments, least squares), Order statistics, Sufficient statistics, Factorization theorem, Minimal sufficiency and MVUE, Lehmann and Scheffe theorem, Rao-Blackwell theorem, Hypothesis testing, Neyman-Pearson lemma and Bonferroni multiple comparisons.
+
+**STATS 404** involved MLE estimations, Newton-Raphson optimization and other common statistical computations using R, Python and C. 
+
+Listed below are my completed courses so far along with scheduled courses for Spring 2022. 
+
+
+**Fall 2021**    
+
+| Course | Grade |
+|:--------|   :-------:|
+| 401 - Methods in Modern Statistics    | A   |
+| 402 - Applied Regression    | A   |
+| 412 - Advanced Regression and Predictive Modeling      | A   |
+{: rules="groups"}
+
 
 **Winter 2022**  
-403 - Mathematical Statistics  
-404 - Statistical Computing and Programming
+
+| Course | Grade |
+|:--------|   :-------:|
+| 403 - Mathematical Statistics     | A   |
+| 404 - Statistical Computing and Programming    | A   |
+{: rules="groups"}
+
+
+**Spring 2022**  
+
+| Course | Grade |
+|:--------|   :-------:|
+| 400 - Probability Modelling    |    In Progress   |
+| 405 - Data Management    |    In Progress   |
+| 413 - Machine Learning      |    In Progress   |
+{: rules="groups"}
+
+
 
 
 
 ### Personal Life:
-**<span style="color:rgb(0, 0, 0)"> SoCal Fever.. </span>**   
-Having lived in the bay area for a majority of my life, I was not expecting too big of a change moving down to Los Angeles. That being said, I have had an amazing couple of months here and have definitely made a home for myself in southern California. Excited to further explore this area over the coming months!!
+<!-- **<span style="color:rgb(0, 0, 0)"> SoCal Fever.. </span>**    -->
+I have now settled into life in Santa Monica and explored a good chunk of Los Angeles and the San Fernando Valley. One of my favorite pass times has been catching a show at The Comedy Store on Sunset Blvd. 
 
 
+Over the next two weeks I will begin taking surfing lessons along venice beach. I have always wanted to surf and figured this would be a great opportunity to learn the craft. My goal is to be proficient come the summer so that I can make the most of the great surfing conditions SoCal has to offer! 🏄
+
+
+Lastly, I recently visited Zion National Park and had an amazing time taking in all the nature. I will be shortly posting a blog about my trip and all the amazing experiences I had. Stay tuned...
 
 
 Back to [home page ⮕](/index)
