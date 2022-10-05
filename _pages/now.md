@@ -31,8 +31,6 @@ Back to [home page ⮕](/index)
 
 
 
-
-
 <!-- ### Personal Website:
 I recently finished updating website to prep for college and job applications. I hope that the information present is sufficient for my audience to sucesfully evaluate me. If not please feel free to reach out to me for more information or any advice in general using my [contact page](/contact).
 
