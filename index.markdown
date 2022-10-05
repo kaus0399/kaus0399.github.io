@@ -39,13 +39,14 @@ feature_row:
 {: id="summary"}
 - **<span style="color:rgb(5, 58, 170)"> Education </span>**: 
   - **Undergraduate**: Graduated from UC Davis June 2021 with a B.S. in Biomedical Engineering and Computer Science minor
-  - **Graduate**: Master's of Applied Statistics student at UCLA
+  - **Graduate**: Master's of Applied Statistics student at UCLA (March 2023 Graduation)
+    <!-- - **Research Focus**: NLP and Computer Vision -->
 <br />
 <br />
 
 
 - **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande.pdf){:target="_blank"}
-  - **Languages**: Python, R, Java, MySQL
+  - **Languages**: Python, R, MATLAB, Java, C++, MySQL
   - **Libraries**: Pytorch, Tensorflow, Keras, Caffe, Theano, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
   - **Tools**: PySpark, AWS, Visual Studio Code
   <!-- - **Familiar**: NLP, Computer Vision   -->

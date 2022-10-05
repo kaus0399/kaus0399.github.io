@@ -3,63 +3,28 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## As of March 24th 2022
+## As of October 5th 2022
 
 ### Graduate School:  
 **<span style="color:rgb(0, 0, 0)"> UCLA Master's of Applied Statistics Program </span>**  
 I am currently a first year Graduate student at UCLA's statistics department. The [Applied Statistics](https://master.stat.ucla.edu/program/) program offers a nice blend of theoretical statistical methods along with modern day programing tools to put these methods into practice. 
 
-I recently finished winter quarter at UCLA and suffice to say the coursework was very demanding. 
-
-**STATS 403** focused on theoretical statistical concepts such as Random variables and common distributions, Moment generating functions, Properties of estimators (bias, efficiency, consistency), Methods of estimation (maximum likelihood, method of moments, least squares), Order statistics, Sufficient statistics, Factorization theorem, Minimal sufficiency and MVUE, Lehmann and Scheffe theorem, Rao-Blackwell theorem, Hypothesis testing, Neyman-Pearson lemma and Bonferroni multiple comparisons.
-
-**STATS 404** involved MLE estimations, Newton-Raphson optimization and other common statistical computations using R, Python and C. 
-
-Listed below are my completed courses so far along with scheduled courses for Spring 2022. 
+I recently started my second and final year at UCLA. I have 3 courses left to graduate and anticipate to finish by March 2023. 
 
 
-**Fall 2021**    
+### Professional Life: 
+**<span style="color:rgb(0, 0, 0)"> Amazon </span>** 
 
-| Course | Grade |
-|:--------|   :-------:|
-| 401 - Methods in Modern Statistics    | A   |
-| 402 - Applied Regression    | A   |
-| 412 - Advanced Regression and Predictive Modeling      | A   |
-{: rules="groups"}
+For this past summer, I was a Data Science intern at Amazon. My project aimed reduce error for currently existing sales forecasts during promotions.
+I developed a pipeline containing time series clustering + classification + signal translation to reduce error by 5.5 percentage points when measuring Weighted Mean Average Precision Error (wMAPE) 
 
-
-**Winter 2022**  
-
-| Course | Grade |
-|:--------|   :-------:|
-| 403 - Mathematical Statistics     | A   |
-| 404 - Statistical Computing and Programming    | A   |
-{: rules="groups"}
-
-
-**Spring 2022**  
-
-| Course | Grade |
-|:--------|   :-------:|
-| 400 - Probability Modelling    |    In Progress   |
-| 405 - Data Management    |    In Progress   |
-| 413 - Machine Learning      |    In Progress   |
-{: rules="groups"}
-
-
-
-
+I received an incline to hire vote at the end of my internship and will be returning to Amazon as a Data Scientist if headcount permits. However, due to a lack of headcount on my team, I am looking for other teams to join at Amazon or other companies altogether. Please reach out at kaus0399@gmail.com if you have openings. 
 
 ### Personal Life:
 <!-- **<span style="color:rgb(0, 0, 0)"> SoCal Fever.. </span>**    -->
 I have now settled into life in Santa Monica and explored a good chunk of Los Angeles and the San Fernando Valley. One of my favorite pass times has been catching a show at The Comedy Store on Sunset Blvd. 
 
-
-Over the next two weeks I will begin taking surfing lessons along venice beach. I have always wanted to surf and figured this would be a great opportunity to learn the craft. My goal is to be proficient come the summer so that I can make the most of the great surfing conditions SoCal has to offer! 🏄
-
-
-Lastly, I recently visited Zion National Park and had an amazing time taking in all the nature. I will be shortly posting a blog about my trip and all the amazing experiences I had. Stay tuned...
-
+I spent this past summer in Seattle and fell in love with the city. Being a big outdoors guy, the pacific northwest was a kind home to me for the summer. I hope to return one day and continue experiencing all that the great state of washington has to offer. 
 
 Back to [home page ⮕](/index)
 
