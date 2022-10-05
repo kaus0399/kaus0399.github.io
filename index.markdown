@@ -45,7 +45,7 @@ feature_row:
 <br />
 
 
-- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande.pdf){:target="_blank"}
+- **<span style="color:rgb(5, 58, 170)"> Skills </span>**: The PDF of my full resume is linked here: [Resume](/assets/Kaustubh_Deshpande_Resume.pdf){:target="_blank"}
   - **Languages**: Python, R, MATLAB, Java, C++, MySQL
   - **Libraries**: Pytorch, Tensorflow, Keras, Caffe, Theano, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
   - **Tools**: PySpark, AWS, Visual Studio Code
