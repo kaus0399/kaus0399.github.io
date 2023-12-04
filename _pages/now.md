@@ -3,28 +3,35 @@ layout: splash
 title: "What I'm Up To Now"
 permalink: /now/
 ---
-## As of October 5th 2022
+## As of December 4th 2023
 
 ### Graduate School:  
 **<span style="color:rgb(0, 0, 0)"> UCLA Master's of Applied Statistics Program </span>**  
-I am currently a first year Graduate student at UCLA's statistics department. The [Applied Statistics](https://master.stat.ucla.edu/program/) program offers a nice blend of theoretical statistical methods along with modern day programing tools to put these methods into practice. 
+After an amazing two years in UCLA's statistics department, I graduated with a Master's degree in [Applied Statistics](https://master.stat.ucla.edu/program/), achieving a 4.0 GPA and completing a thesis on multimodal domain adaptation.
 
-I recently started my second and final year at UCLA. I have 3 courses left to graduate and anticipate to finish by March 2023. 
-
+I am keen on returning as PhD student and currently in the midst of the application cycle!
 
 ### Professional Life: 
+
+**<span style="color:rgb(0, 0, 0)"> Tixr </span>** 
+
+Since May 2023, I have been employed as an Applied Scientist at a startup named Tixr. My experience here has been exhilarating, fueled by an exciting work culture that encourages innovation and collaboration. The proximity to the beach, Hollywood and LA in general has made it all the more enjoyable!
+
+My current research delves into statistically identifying hallucinations in AI-generated outputs, addressing their origin, adversarial invocations, and methods for human-aligned and robust model outputs. Projects include customer report generation, client-facing chatbots, and generative AI marketing assistants, with a major focus on privacy, particularly concerning sensitive information shared with large language models (LLMs) for generation, encompassing financial and other domains.
+
+
 **<span style="color:rgb(0, 0, 0)"> Amazon </span>** 
 
-For this past summer, I was a Data Science intern at Amazon. My project aimed reduce error for currently existing sales forecasts during promotions.
-I developed a pipeline containing time series clustering + classification + signal translation to reduce error by 5.5 percentage points when measuring Weighted Mean Average Precision Error (wMAPE) 
-
-I received an incline to hire vote at the end of my internship and will be returning to Amazon as a Data Scientist if headcount permits. However, due to a lack of headcount on my team, I am looking for other teams to join at Amazon or other companies altogether. Please reach out at kaus0399@gmail.com if you have openings. 
+Despite a successful and educational internship experience at Amazon Devices in the summer of 2022, my return offer was rescinded amid layoffs. As a keen admirer of Amazon's work culture, I aspire to revisit the company in the future, contributing as an applied scientist tackling vision and language challenges.
 
 ### Personal Life:
 <!-- **<span style="color:rgb(0, 0, 0)"> SoCal Fever.. </span>**    -->
-I have now settled into life in Santa Monica and explored a good chunk of Los Angeles and the San Fernando Valley. One of my favorite pass times has been catching a show at The Comedy Store on Sunset Blvd. 
+A huge fan of the great outdoors, I had my heart set on a move to Seattle to join Amazon post graduation. However recent personal experiences have made me further realize my goal of pursuing a PhD. On that note I am happy to continue in Santa Monica as I make my way through PhD applications and continue growing as a scientist at Tixr!
 
-I spent this past summer in Seattle and fell in love with the city. Being a big outdoors guy, the pacific northwest was a kind home to me for the summer. I hope to return one day and continue experiencing all that the great state of washington has to offer. 
+Recently I've been very interested in outdoor survival camping. I draw inspiration from [The Outdoor Boys Youtube channel](<https://www.youtube.com/@OutdoorBoys>){:target="_blank"}. Really excited to attempt some winter survival camping trips over the next few months!
+
+I was over the moon to get to visit Glacier National Park earlier this summer. Check out my [blog](/blog) page for a post coming very soon! 
+
 
 Back to [home page ⮕](/index)
 
